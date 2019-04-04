@@ -1,0 +1,12 @@
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce Trainer 2019.vbprojAssemblyReference.cache
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce_Trainer_2019.frmMain.resources
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce_Trainer_2019.Resources.resources
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce Trainer 2019.vbproj.GenerateResource.cache
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce Trainer 2019.vbproj.CoreCompileInputs.cache
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\bin\Debug\Broforce Trainer 2019.exe.config
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\bin\Debug\Broforce Trainer 2019.exe
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\bin\Debug\Broforce Trainer 2019.pdb
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\bin\Debug\Broforce Trainer 2019.xml
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce Trainer 2019.exe
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce Trainer 2019.xml
+C:\Users\Vita\source\repos\Broforce Trainer 2019\Broforce Trainer 2019\obj\Debug\Broforce Trainer 2019.pdb
